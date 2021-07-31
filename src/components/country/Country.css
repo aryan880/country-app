@@ -1,0 +1,23 @@
+.country-card{
+  margin: 46px;
+  flex: 1 0 20%; 
+  box-shadow: 0 3px 3px 2px rgba(0,0,0,.2);
+}
+
+.country-image{
+  padding: 30px;
+}
+
+.country-flag{
+  max-width: 100%;
+}
+
+.country-body{
+  padding: 20px;
+}
+
+.name{
+  margin: 0;
+  font-size: 30px;
+  color: orange;
+}
